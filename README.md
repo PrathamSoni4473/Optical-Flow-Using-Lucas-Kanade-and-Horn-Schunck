@@ -21,4 +21,4 @@
 
 ![Horn-2](https://github.com/PrathamSoni4473/Optical-Flow-Using-Lucas-Kanade-and-Horn-Schunck/blob/main/Results/Horn-2.png)
 
-![Horn-3](https://github.comPrathamSoni4473/Optical-Flow-Using-Lucas-Kanade-and-Horn-Schunck/main/Results/Horn-3.png)
+![Horn-3](https://github.com/PrathamSoni4473/Optical-Flow-Using-Lucas-Kanade-and-Horn-Schunck/blob/main/Results/Horn-3.png)
